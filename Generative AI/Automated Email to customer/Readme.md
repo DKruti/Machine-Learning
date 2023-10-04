@@ -1,5 +1,3 @@
-Certainly, here's a README.md template for your project, organized into the requested sections:
-
 # Customer Support System Automated Email Response
 
 ## Introduction
