@@ -17,14 +17,14 @@ We discussed `Document Loading` and `Splitting` as well as `Storage` and `Retrie
 We then showed how `Retrieval` can be used for output generation in Q+A using `RetrievalQA` chain.
 """
 
-! pip install langchain
-! pip install openai
-! pip install python-dotenv
-! pip install Pypdf
-! pip install yt_dlp
-! pip install pydub
-! pip install tiktoken
-! pip install chromadb
+# ! pip install langchain
+# ! pip install openai
+# ! pip install python-dotenv
+# ! pip install Pypdf
+# ! pip install yt_dlp
+# ! pip install pydub
+# ! pip install tiktoken
+# ! pip install chromadb
 
 import os
 import openai
@@ -36,7 +36,7 @@ pn.extension()
 
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv()) # read local .env file
-os.environ['OPENAI_API_KEY']='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'
+os.environ['OPENAI_API_KEY']='<your key>'
 #openai.api_key  = os.environ['OPENAI_API_KEY']
 
 """The code below was added to assign the openai LLM version filmed until it is deprecated, currently in Sept 2023.
