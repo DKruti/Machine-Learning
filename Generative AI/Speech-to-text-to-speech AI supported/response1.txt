@@ -1,0 +1,3 @@
+User's question:  how are you
+AI's response: Hello there! I'm doing well, thank you for asking. How are you?
+
