@@ -101,4 +101,4 @@ Ask a question. It continuously listens and wakes the system using the "hey Comp
 ## Test
 
 <img width="608" alt="Screen Shot 2023-11-15 at 12 57 35 AM" src="https://github.com/DKruti/Machine-Learning/assets/120690177/cd619c05-46bd-4454-8f9f-d6fd40e5e636">
-<img width="634" alt="Screen Shot 2023-11-15 at 12 46 55 AM" src="https://github.com/DKruti/Machine-Learning/assets/120690177/e8eff962-da31-4292-84ae-b7d716ea0aaf">
+<img width="639" alt="Screen Shot 2023-11-15 at 1 18 35 AM" src="https://github.com/DKruti/Machine-Learning/assets/120690177/07c99753-3c4f-481c-b78d-c3215e4f7abe">
